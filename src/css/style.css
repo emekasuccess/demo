@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+html,
+body {
+    background-color: red;
+}
+
+
+.header {
+    color: white;
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    margin-left: 70px;
+    padding-left: 30px;
+}
